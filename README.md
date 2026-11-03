@@ -592,3 +592,6 @@ render();
 <img width="1818" height="667" alt="Screenshot 2026-11-03 102429" src="https://github.com/user-attachments/assets/d7a9cce7-cb8d-4da6-8c06-36feee453664" />
 <img width="1802" height="817" alt="Screenshot 2026-11-03 102438" src="https://github.com/user-attachments/assets/2d07fda0-eacb-4555-ada4-7b5731e005a1" />
 <img width="1790" height="287" alt="image" src="https://github.com/user-attachments/assets/6595fe4e-ae2b-4a78-9373-2592339c1e46" />
+
+#Result.
+Thus, the commercial website was successfully created using HTML and CSS with product/service details, company information, and customer interaction features, and hosted on GitHub Pages for online access.

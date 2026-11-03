@@ -1,8 +1,8 @@
 # Commercial-Website
 Modern Web
-AIM
+#AIM
 To design and develop a commercial website using HTML and CSS to promote business products/services, showcase company information, display product details, provide customer support, and enable online interaction with customers.
-ALGORITHM
+#ALGORITHM
 1. Start the program.
 2. Open Visual Studio Code and create a project folder for the commercial website.
 3. Create necessary files such as:
